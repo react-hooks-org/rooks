@@ -1,3 +1,7 @@
+## Unreleased
+
+* Add useResizeObserver hook ()
+
 ## 5.2.0 (2021-07-17)
 
 * feat(usedimensionsref): new hook to find dimensions of an element (#509) ([be2d162](https://github.com/imbhargav5/rooks/commit/be2d162)), closes [#509](https://github.com/imbhargav5/rooks/issues/509) [#508](https://github.com/imbhargav5/rooks/issues/508)
